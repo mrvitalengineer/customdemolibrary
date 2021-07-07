@@ -1,2 +1,2 @@
 # customdemolibrary
-Show Case for a Custom Library
+Showcasing Custom Library
